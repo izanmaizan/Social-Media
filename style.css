@@ -19,7 +19,7 @@ body {
     width: 100%;
     font-family: "Poppins", sans-serif;
     place-items: center;
-    background-image: linear-gradient(45deg, #8B5CF6, #EC4899);
+    background: linear-gradient(315deg, #ffffff, #d7e1ec);
 }
 
 .wrapper {
